@@ -36,3 +36,7 @@ arrow*/}
 <i class="fa-solid fa-circle-check"></i>
 {/* attach pin */}
 <i class="fa-solid fa-paperclip"></i>
+
+gmail
+<i class="fa-solid fa-envelope"></i>
+<i class="fa-regular fa-envelope"></i>
