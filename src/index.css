@@ -1,0 +1,66 @@
+/* Typography 
+
+12 / 14 / 16 / 18  / 22 / 26 / 36 / 40 / 46 /54
+*/
+
+/* color 
+
+Main Color :#1971c2
+grey color :#343a40
+
+tints : 
+ #343a40
+ #1a1d20
+shades:
+  #ebebec
+  #9a9da0
+
+*/
+
+/* border-radius
+default = 
+
+*/
+
+html {
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+  line-height: 1;
+  color: #343a40;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+a,
+Navlink {
+  text-decoration: none;
+  color: #343a40;
+}
+
+.btn-primary {
+  background-color: #1971c2;
+  border: none;
+  outline: none;
+  padding: 9px 16px;
+  font-size: 16px;
+  color: white;
+  border-radius: 5px;
+}
+
+.btn-primary:hover {
+  background-color: #1c7ed6;
+}
