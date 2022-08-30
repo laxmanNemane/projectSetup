@@ -1,0 +1,38 @@
+{/* google */}
+<i class="fa-brands fa-google"></i> &nbsp;&nbsp; {/* trending arrow up */}
+<i class="fa-solid fa-arrow-trend-up"></i>&nbsp;&nbsp; {/* Aprrove && thumbs */}
+<i class="fa-solid fa-thumbs-up"></i>&nbsp;&nbsp; {/* trending arrow down */}
+<i class="fa-solid fa-arrow-trend-down"></i>&nbsp;&nbsp; {/* extracting page
+arrow*/}
+<i class="fa-solid fa-arrow-up-right-and-arrow-down-left-from-center"></i>
+&nbsp;&nbsp; {/* heart */}
+<i class="fa-regular fa-heart"></i>&nbsp;&nbsp; {/* plus in circle */}
+<i class="fa-regular fa-circle-plus"></i>&nbsp;&nbsp; {/* search icons */}
+<i class="fa-solid fa-magnifying-glass"></i>&nbsp;&nbsp; {/* play */}
+<i class="fa-regular fa-play"></i>&nbsp;&nbsp; {/* calender */}
+<i class="fa-regular fa-calendar-days"></i>&nbsp;&nbsp; {/* tag */}
+<i class="fa-regular fa-tag"></i>&nbsp;&nbsp; {/* facebook */}
+<i class="fa-brands fa-facebook"></i>&nbsp;&nbsp;
+<i class="fa-brands fa-facebook-f"></i>&nbsp;&nbsp; {/* insta */}
+<i class="fa-brands fa-instagram"></i>
+<i class="fa-brands fa-square-instagram"></i>&nbsp;&nbsp; {/* twitter */}
+<i class="fa-brands fa-square-twitter"></i>&nbsp;&nbsp;
+<i class="fa-brands fa-twitter"></i>&nbsp;&nbsp; {/* linkdein */}
+<i class="fa-brands fa-linkedin"></i>&nbsp;&nbsp;
+<i class="fa-brands fa-linkedin-in"></i>&nbsp;&nbsp; {/* location */}
+<i class="fa-regular fa-location-dot"></i>&nbsp;&nbsp; {/* user */}
+<i class="fa-regular fa-circle-user"></i>&nbsp;&nbsp; {/* users */}
+<i class="fa-regular fa-users"></i>&nbsp;&nbsp;
+<i class="fa-solid fa-users"></i>&nbsp;&nbsp; {/* setting */}
+<i class="fa-solid fa-users"></i>&nbsp;&nbsp;
+<i class="fa-solid fa-gear"></i>
+{/* share */}
+<i class="fa-solid fa-share-nodes"></i>
+<i class="fa-solid fa-square-share-nodes"></i>
+{/* print */}
+<i class="fa-solid fa-print"></i>
+{/* right tick select */}
+<i class="fa-regular fa-circle-check"></i>
+<i class="fa-solid fa-circle-check"></i>
+{/* attach pin */}
+<i class="fa-solid fa-paperclip"></i>
